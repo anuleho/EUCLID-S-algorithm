@@ -1,2 +1,2 @@
-# EUCLID-S-algorithm
-algorithm
+print (1+3)
+
